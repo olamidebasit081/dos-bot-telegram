@@ -16,10 +16,10 @@ os.system("chmod 777 kitty")
 from keep_alive import keep_alive
 keep_alive()
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('token')
+bot = telebot.TeleBot('8795476073:AAEet0uforn1XYqdCumcpIJ8qfuPYMbvRMU')
 
 # Admin user IDs
-admin_id = {""}
+admin_id = {"7957263184"}
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
